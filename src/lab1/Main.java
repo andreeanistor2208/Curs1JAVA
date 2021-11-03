@@ -6,6 +6,12 @@ public class Main {
         Ex e = new Ex();
         e.arrays();
 
+        byte a1 = 12;
+        byte a2 = 56;
+        int a3 = a1 + a2;
+
+        System.out.println("a3 = " + a3);
+
         //Code Study
 
 
